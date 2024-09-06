@@ -54,9 +54,3 @@ This project is a smart garbage system developed using an ESP32. The system is d
 - Implement a notification system to alert when the bin is full.
 - Explore additional sensors for more accurate garbage level monitoring.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-You can copy this content into your README file on GitHub. Let me know if you need any changes!
