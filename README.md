@@ -10,6 +10,10 @@ This project is a smart garbage system developed using an ESP32. The system is d
 - Youssef Essam
 
 ## Project Features
+
+![Project Photo](https://github.com/user-attachments/assets/413b8a79-2595-49ef-b53f-5220fc59da01)
+
+
 1. **LED Indicators:**
    - **Red LED:** Lights up when the garbage bin is full.
    - **Green LED:** Lights up when the garbage bin is empty.
@@ -31,7 +35,11 @@ This project is a smart garbage system developed using an ESP32. The system is d
 - When the garbage bin is empty, the green LED lights up.
 - As garbage fills the bin, the ultrasonic sensor monitors the level.
 - When the bin is full, the red LED lights up.
+- ![Red LED](https://github.com/user-attachments/assets/ffd2ad58-5de5-4fcf-a996-c1312904a5d7)
+
 - The bin automatically opens when an object is detected near it (i.e., when the ultrasonic sensor measures a short distance).
+- `![Bin automatically opens](https://github.com/user-attachments/assets/907e654d-cc21-4f0f-835e-7b5a3d45adaa)
+
 - All data is sent to a Blynk dashboard for remote monitoring.
 
 ## Installation and Setup
