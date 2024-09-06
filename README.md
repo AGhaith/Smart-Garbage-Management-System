@@ -27,6 +27,7 @@ This project is a smart garbage system developed using an ESP32. The system is d
 ## Hardware Components
 - ESP32
 - Ultrasonic Sensor
+- IR sensor
 - Red and Green LEDs
 - Servo Motor
 - Blynk-compatible board
@@ -44,7 +45,7 @@ This project is a smart garbage system developed using an ESP32. The system is d
 
 ## Installation and Setup
 1. **Hardware Setup:**
-   - Connect the ultrasonic sensor, LEDs, and servo motor to the ESP32 as per your circuit design.
+   - Connect the ultrasonic sensor, IR sensor, LEDs, and servo motor to the ESP32 as per your circuit design.
 
 2. **Blynk Setup:**
    - Set up a Blynk project and obtain an authentication token.
